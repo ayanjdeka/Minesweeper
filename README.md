@@ -1,2 +1,2 @@
-# minesweeper
-Mine Sweeper game - Java Version
+# Minesweeper
+This is the classic game of Minesweeper built on java. It imports the libraries of java.x and java.awt to build the graphical components and to also create the event listeners. I also utilized the libraries of a timer to get the exact replica. Additionally, I added my own twist by allowing the user to switch through different themes of the game, such as a clipart theme or a mario kart theme.
